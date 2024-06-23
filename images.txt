@@ -1,1 +1,2 @@
 weejewel/wg-easy:7-nightly
+vx3r/wg-gen-web:latest
